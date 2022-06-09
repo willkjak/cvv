@@ -1,0 +1,50 @@
+/***********Tag Selectors*************/
+body {
+  background-color: #F6FBF4;
+}
+
+hr {
+  border-color: #94B49F;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 7px;
+}
+
+hr:hover {
+  border-color: red;
+}
+
+h1 {
+  color: #14C38E;
+  font-size: 50px;
+}
+
+h2 {
+  color: #14C38E;
+  text-align: center;
+  font-size: 30px;
+}
+
+h3 {
+  color: #14C38E;
+  text-align: center;
+  font-size: 25px;
+}
+
+ul {
+  color: #4B5D67;
+}
+
+table {
+  color: #4B5D67;
+}
+
+p {
+  font-size: 20px;
+  width: 50%;
+  color: #4B5D67;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+}

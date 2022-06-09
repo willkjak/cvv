@@ -1,0 +1,9 @@
+/***********ID Selectors*************/
+*#ContactInfo {
+  color: #14C38E;
+}
+
+*#CollegeCourses {
+  /*trying to center list without making a mess*/
+  font-size: 20px;
+}
